@@ -1,0 +1,26 @@
+.body_backgorund 
+{
+    background-image:url(dc.jpg);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h3
+{
+	width: 1000px;
+	background-color: white;
+	display: inline-block;
+}
+
+#flash.jpg
+{
+    height: 100px;
+    width: 50px;
+}
+
